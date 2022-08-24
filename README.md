@@ -16,7 +16,7 @@ Step 5 : Run following command into command prompt
 
 spark-submit --class org.example.App --master local[3] C:\Users\ws_htu745\IdeaProjects\SparkJava\target\SparkJava-1.0-SNAPSHOT.jar 
 
-Spark-submit --class <package.mainclass> --master local[number of executors] <jar file with Absolute path> 
+Spark-submit --class <package.mainclass> --master local[number of executors] <jar file> 
 
 Step 6 : On successful run of above command it will provide SparkUI link 
 
