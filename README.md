@@ -1,6 +1,6 @@
 # Spark-Java 
 
-Step 1 : Clone project and do maven install 
+Step 1 : Clone project and do maven install. Copy the path of jar.
 
 Step 2 : Now Go to below link and download Apache spark 
 
